@@ -5,7 +5,7 @@
  * Description....: Provides functions for timing/waiting
  * Licence........: GNU GPL v2 (see Readme.txt)
  * Creation Date..: 2005-02-23
- * Last change....: 2006-11-16
+ * Last change....: 2025-11-10
  */
 
 #ifndef __clock_h_included__
