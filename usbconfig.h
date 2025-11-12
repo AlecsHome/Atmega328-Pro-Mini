@@ -24,7 +24,7 @@ section at the end of this file).
 */
 
 /* ---------------------------- Hardware Config ---------------------------- */
-// Для Atmega328 поменял порт и выводы на 2 и 7
+// Р”Р»СЏ Atmega328 РїРѕРјРµРЅСЏР» РїРѕСЂС‚ Рё РІС‹РІРѕРґС‹ РЅР° 2 Рё 7
 #define USB_CFG_IOPORTNAME      D
 /* This is the port where the USB bus is connected. When you configure it to
  * "B", the registers PORTB, PINB and DDRB will be used.
